@@ -1,5 +1,8 @@
 Revision history for Test-Aggregate
 
+        - Fixed t/pre_post_nested skipping if you don't have a new enough
+          Test::More.
+
 0.35_07
         - Added missing files to MANIFEST.
 
